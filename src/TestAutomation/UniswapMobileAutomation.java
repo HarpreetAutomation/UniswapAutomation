@@ -14,7 +14,7 @@ public class UniswapMobileAutomation {
 
     //@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
-     // Set the path to your ChromeDriver executable
+     // Set the path to your ChromeDriver executable file
    //   System.setProperty("webdriver.chrome.driver", "C://Users//Harpreet//Desktop//Chrome//chromedriver.exe");
       
        // Create a new instance of the ChromeDriver
